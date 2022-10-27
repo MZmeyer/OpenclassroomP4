@@ -440,6 +440,14 @@ nav .caret {
     margin-bottom: 20px;
 }
 
+.mg-md.text-center{
+    font-family: "helvetica";
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #333333!important;
+}
+
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
