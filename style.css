@@ -692,6 +692,21 @@ p {
     font-size: 13px;
 }
 
+.titre1{
+    font-size: 22px;
+}
+.citation{
+    font-size: 22px;
+    font-weight: 400;
+    font-style: italic;
+}
+.signature{
+    font-size: 18px;
+    font-weight:lighter;
+}
+.titre2{
+    font-size: 22px;
+}
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
